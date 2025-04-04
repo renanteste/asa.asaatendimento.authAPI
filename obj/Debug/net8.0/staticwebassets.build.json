@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tHxfJqbQ4ICDTX8ij38Y3kLetq/1ufilsNMzfPtj4XQ=",
+  "Source": "asa.asaatendimento.authAPI",
+  "BasePath": "_content/asa.asaatendimento.authAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

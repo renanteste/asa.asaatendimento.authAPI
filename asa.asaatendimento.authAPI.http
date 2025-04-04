@@ -1,0 +1,6 @@
+@asa.asaatendimento.authAPI_HostAddress = http://localhost:5268
+
+GET {{asa.asaatendimento.authAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
